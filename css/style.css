@@ -31,6 +31,7 @@ ul {
 }
   
 li {
+    color: #fff;
     margin-right: 1rem;
 }
 
@@ -63,7 +64,7 @@ h1 {
 }
 
 .card--avatar {
-    width: 100%;
+    width: 16rem;
     height: 10rem;
     object-fit: cover;
 }
